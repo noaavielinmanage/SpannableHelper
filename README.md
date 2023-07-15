@@ -15,4 +15,20 @@ Here's a step-by-step explanation of the function:
 
 4. Finally, return the modified spannableString with the bold and colored text.
 
-By using the returned SpannableString, you can display the input text with the specified pattern made bold and colored in a TextView or any other component that supports styled text.
+Added further more functions to the spannable helper in V2.0:
+
+*Change Font Color: This method changes the font color of a specific pattern in the TextView text.
+
+*Change Font Size: This method changes the font size of a specific pattern in the TextView text.
+
+*Underline Text: This method adds an underline effect to a specific pattern in the TextView text.
+
+*Strikethrough Text: This method adds a strikethrough effect to a specific pattern in the TextView text.
+
+**ShowTextPartlyBold: This method adds a bold effect to a specific pattern in the TextView text.
+
+*ChangeBackgroundColor: This method adds a background color effect to a specific pattern in the TextView text.
+
+*ChangeTextStyle: This method adds a text style effect to a specific pattern in the TextView text.
+
+By using the returned SpannableString, you can display the input text with the specified pattern in a TextView or any other component that supports styled text.
