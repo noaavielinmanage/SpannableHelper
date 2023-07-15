@@ -17,4 +17,84 @@
         android:layout_centerHorizontal="true"
         android:id="@+id/tvNoaExample"
         />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Noa Is Here"
+        android:textSize="30sp"
+        android:gravity="center"
+        android:textColor="#123456"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/tvNoaExample1"
+        android:layout_below="@id/tvNoaExample"
+        android:layout_marginTop="4dp"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Noa Is Here"
+        android:textSize="30sp"
+        android:gravity="center"
+        android:textColor="#123456"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/tvNoaExample2"
+        android:layout_below="@id/tvNoaExample1"
+        android:layout_marginTop="4dp"
+
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Noa Is Here"
+        android:textSize="30sp"
+        android:gravity="center"
+        android:textColor="#123456"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/tvNoaExample3"
+        android:layout_marginTop="4dp"
+        android:layout_below="@id/tvNoaExample2"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Noa Is Here"
+        android:textSize="30sp"
+        android:gravity="center"
+        android:textColor="#123456"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/tvNoaExample4"
+        android:layout_below="@id/tvNoaExample3"
+        android:layout_marginTop="4dp"
+
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Noa Is Here"
+        android:textSize="30sp"
+        android:gravity="center"
+        android:textColor="#123456"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/tvNoaExample5"
+        android:layout_below="@id/tvNoaExample4"
+        android:layout_marginTop="4dp"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Noa Is Here"
+        android:textSize="30sp"
+        android:gravity="center"
+        android:textColor="#123456"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/tvNoaExample6"
+        android:layout_below="@id/tvNoaExample4"
+        android:layout_marginTop="4dp"
+        />
 </RelativeLayout>
